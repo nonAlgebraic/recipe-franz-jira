@@ -2,16 +2,16 @@
   "id": "jira",
   "name": "Jira",
   "version": "1.0.0",
-  "description": "Jira",
+  "description": "Franz 5.x integration plugin for Atlassian Jira.",
   "main": "index.js",
-  "author": "ThatGuyInIT@Github",
+  "author": "nonAlgebraic <https://github.com/nonAlgebraic>",
   "license": "MIT",
-  "repository": "https://github.com/ThatGuyinIT/recipe-franz-jira/",
-  "config": {	
+  "repository": "https://github.com/nonAlgebraic/recipe-franz-jira/",
+  "config": {
     "serviceURL": "https://{teamId}.atlassian.net",
     "hasNotificationSound": false,
-    "hasDirectMessages": false,
-    "hasIndirectMessages": false,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
     "hasTeamId": true,
     "urlInputSuffix": "<team>.atlassian.net"
   }
