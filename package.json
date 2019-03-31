@@ -14,7 +14,7 @@
     "serviceURL": "https://{teamId}.atlassian.net",
     "hasNotificationSound": false,
     "hasDirectMessages": true,
-    "hasIndirectMessages": true,
+    "hasIndirectMessages": false,
     "hasTeamId": true,
     "urlInputSuffix": "<team>.atlassian.net"
   }
