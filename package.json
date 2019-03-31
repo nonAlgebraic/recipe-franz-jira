@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "description": "Franz 5.x integration plugin for Atlassian Jira.",
   "main": "index.js",
-  "author": "nonAlgebraic <https://github.com/nonAlgebraic>",
+  "author": "ThatGuyInIT@Github",
+  "contributors": [
+    "nonAlgebraic <https://github.com/nonAlgebraic>"
+  ],
   "license": "MIT",
   "repository": "https://github.com/nonAlgebraic/recipe-franz-jira/",
   "config": {
