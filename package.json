@@ -12,10 +12,6 @@
   "repository": "https://github.com/nonAlgebraic/recipe-franz-jira/",
   "config": {
     "serviceURL": "https://{teamId}.atlassian.net",
-    "hasNotificationSound": false,
-    "hasDirectMessages": true,
-    "hasIndirectMessages": false,
-    "hasTeamId": true,
     "urlInputSuffix": "<team>.atlassian.net"
   }
 }
